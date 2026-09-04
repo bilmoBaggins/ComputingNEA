@@ -1,0 +1,4 @@
+repository "ComputingNEA@bilalmohammad258@cloud"
+  path "/"
+    br "/main"
+    co "/main"
